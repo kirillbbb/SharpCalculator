@@ -1,10 +1,3 @@
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculatorTests
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.AssemblyInfo.cs
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.sourcelink.json
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculatorTests
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
@@ -108,8 +101,9 @@ C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\obj\Debu
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.pdb
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.genruntimeconfig.cache
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\ref\CalculatorTests.dll
-C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\testhost.exe
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculatorTests
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\testhost.dll
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\testhost.exe
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
@@ -198,6 +192,12 @@ C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debu
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\Calculator.dll
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\bin\Debug\net8.0\Calculator.pdb
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.AssemblyInfo.cs
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.sourcelink.json
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\Calculat.2798ECFA.Up2Date
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.dll
 C:\Users\user\Desktop\sharp Calculator\StringCalculator\CalculatorTests\obj\Debug\net8.0\refint\CalculatorTests.dll
