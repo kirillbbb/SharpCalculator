@@ -116,11 +116,20 @@ namespace Calculator
         {
             var tokens = new List<string>();
             var currentToken = string.Empty;
+            bool lastWasOperatorOrParenthesis = true; // Определяет, может ли `-` быть унарным
+
             foreach (var ch in expression)
             {
                 if (char.IsWhiteSpace(ch)) continue;
+
                 if (char.IsDigit(ch) || ch == '.')
                 {
+                    currentToken += ch;
+                    lastWasOperatorOrParenthesis = false;
+                }
+                else if (ch == '-' && lastWasOperatorOrParenthesis)
+                {
+                    // Унарный минус: добавить в текущий токен
                     currentToken += ch;
                 }
                 else
@@ -130,14 +139,19 @@ namespace Calculator
                         tokens.Add(currentToken);
                         currentToken = string.Empty;
                     }
+
                     tokens.Add(ch.ToString());
+                    lastWasOperatorOrParenthesis = ch == '(' || ch == '+' || ch == '-' || ch == '*' || ch == '/';
                 }
             }
+
             if (!string.IsNullOrEmpty(currentToken))
             {
                 tokens.Add(currentToken);
             }
+
             return tokens;
         }
+
     }
 }

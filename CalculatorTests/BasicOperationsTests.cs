@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Calculator;
 
-
-
 namespace CalculatorTests
 {
     public class BasicOperationsTests
