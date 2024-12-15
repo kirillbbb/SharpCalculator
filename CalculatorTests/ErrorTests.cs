@@ -42,7 +42,5 @@ namespace CalculatorTests
             Assert.Throws<InvalidOperationException>(() => calculator.Calculate("2 ^ 3"));
         }
 
-        [Fact]
-        public void
     }
 }
