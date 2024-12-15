@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Calculator;
 
 
 
@@ -14,7 +15,7 @@ namespace CalculatorTests
     public void Should_AdditionTwoNumbers()
     {
 
-        var calculator = new StringCalculator();
+        var calculator = new StringCalculatorExpression();
 
         var result = calculator.Calculate("3 + 4");
 
@@ -24,7 +25,7 @@ namespace CalculatorTests
     public void Should_SubtractTwoNumbers()
     {
 
-        var calculator = new StringCalculator();
+        var calculator = new StringCalculatorExpression();
 
         var result = calculator.Calculate("6 - 5");
 
@@ -34,7 +35,7 @@ namespace CalculatorTests
     public void Should_MultiplyTwoNumbers()
     {
 
-        var calculator = new StringCalculator();
+        var calculator = new StringCalculatorExpression();
 
         var result = calculator.Calculate("7 * 4");
 
@@ -44,7 +45,7 @@ namespace CalculatorTests
     public void Should_DivideTwoNumbers()
     {
 
-        var calculator = new StringCalculator();
+        var calculator = new StringCalculatorExpression();
 
         var result = calculator.Calculate("9 / 3");
 
@@ -53,7 +54,7 @@ namespace CalculatorTests
     [Fact]
     public async Task Should_ExceptionDividingByZero()
     {
-        var calculator = new StringCalculator();
+        var calculator = new StringCalculatorExpression();
         await Assert.ThrowsAsync<DivideByZeroException>(async () => await calculator.CalculateAsync("10 / 0"));
     }
 }
