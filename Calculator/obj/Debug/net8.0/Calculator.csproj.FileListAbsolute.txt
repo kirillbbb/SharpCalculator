@@ -10,3 +10,15 @@ C:\Users\user\Desktop\sharp_Calculator\StringCalculator\Calculator\obj\Debug\net
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.pdb
 C:\Users\user\Desktop\sharp_Calculator\StringCalculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\user\Desktop\sharp Calculator\StringCalculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
